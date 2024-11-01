@@ -549,3 +549,9 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+/MagicVilla_Web/obj/Debug/net7.0/apphost.exe
+/MagicVilla_Web/obj/Debug/net7.0/MagicVilla_Web.AssemblyInfo.cs
+/MagicVilla_Web/obj/Debug/net7.0/MagicVilla_Web.AssemblyInfoInputs.cache
+/MagicVilla_Web/obj/Debug/net7.0/MagicVilla_Web.dll
+/MagicVilla_Web/obj/Debug/net7.0/MagicVilla_Web.pdb
+/MagicVilla_Web/obj/Debug/net7.0/MagicVilla_Web.sourcelink.json
