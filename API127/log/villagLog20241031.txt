@@ -1,0 +1,105 @@
+2024-10-31 21:58:54.516 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 21:58:54.573 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 21:59:00.029 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 21:59:00.032 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 22:02:58.069 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 22:02:58.101 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 22:03:14.917 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 22:03:14.919 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 22:09:59.215 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 22:09:59.305 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 22:10:04.924 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 22:10:04.925 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 22:10:40.282 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 22:10:40.350 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 22:10:42.709 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 22:10:42.712 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 22:57:27.277 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:03:46.534 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:03:46.574 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 23:04:03.045 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:04:03.046 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 23:04:53.977 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:05:19.134 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:05:59.204 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:06:19.420 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:07:08.526 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:07:17.151 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:07:30.727 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:07:30.730 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 23:07:48.760 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:07:48.761 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 23:08:19.318 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:08:19.318 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-31 23:09:08.746 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:09:18.440 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:10:49.558 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:11:35.225 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:11:37.745 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:11:38.537 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:26:26.346 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:26:31.892 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:26:39.597 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:26:39.643 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:29:18.751 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:29:20.333 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:29:35.507 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:29:36.140 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:29:38.951 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:29:38.994 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:30:24.359 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:30:24.975 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:30:27.367 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:30:27.404 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:30:32.415 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:31:10.222 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:32:02.297 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:32:03.029 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:32:05.117 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:32:05.163 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:32:41.351 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:35:03.735 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:35:04.418 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:35:07.314 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:35:07.354 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:35:13.847 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:35:30.423 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:36:44.540 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:38:00.027 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:38:50.902 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:38:51.706 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:39:18.945 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:39:20.021 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:40:01.812 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:40:01.853 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:40:09.105 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:40:36.539 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:40:37.144 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:40:44.634 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:40:44.675 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:40:55.503 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:45:09.976 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:45:10.948 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:45:53.207 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:45:53.284 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:45:57.906 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:46:46.457 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:47:48.906 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:48:37.698 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:48:39.416 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:48:59.978 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:49:00.017 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:49:04.665 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:50:27.750 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:50:28.401 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:50:38.573 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:50:38.609 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:50:57.733 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:51:22.420 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:51:44.079 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:52:21.965 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:52:22.598 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:52:57.332 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:52:57.371 +07:00 [INF] Getting all villa hjaha
+2024-10-31 23:53:15.434 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-31 23:54:59.723 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.

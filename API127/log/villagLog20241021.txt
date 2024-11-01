@@ -1,0 +1,4 @@
+2024-10-21 23:54:39.217 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-21 23:54:39.248 +07:00 [INF] AuthenticationScheme: BasicAuthentication was challenged.
+2024-10-21 23:55:19.229 +07:00 [INF] BasicAuthentication was not authenticated. Failure message: Authentication failed: The format of value '<null>' is invalid.
+2024-10-21 23:55:22.453 +07:00 [INF] Getting all villa hjaha
